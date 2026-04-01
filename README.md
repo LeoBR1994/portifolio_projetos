@@ -10,26 +10,6 @@
 Me chamo Leonardo Rosa, tenho 32 anos e sou natural do Rio Grande do Sul. Sou Bacharel em Ciências Contábeis, especializado em Auditoria , Controladoria e Gestão de Processos, estou cursando Engenharia de Software na UNICESUMAR - PR. Sou apaixonado por tecnologia e estou me preparando para compartilhar meu conhecimento através do meu canal no YouTube "[Zero ao Insight](https://www.youtube.com/@dozer_aoinsight)", onde irei ensinar a criar projetos ciencia de dados e análises contábeis, e também através do Instagram, com o perfil chamado "[Leonardo Rosa](https://www.instagram.com/_instaleonardorosa/)".
 
 ---
-
-<p align="left">
-    <a href="https://www.instagram.com/_instaleonardorosa/">
-        <img alt="instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Siga--me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
-    </a>
-    <a href="https://www.youtube.com/@dozer_aoinsight?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCqtDTsM3-uizsJhLUbt-4FA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
-    </a>
-    <a href="https://www.youtube.com/@dozer_aoinsight">
-        <img alt="youtube views" title="Visualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCqtDTsM3-uizsJhLUbt-4FA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
-    </a>
-    <a href="https://github.com/LeoBR1994?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LeoBR1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-    </a> 
-    <a href="https://github.com/LeoBR1994?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LeoBR1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-    </a>
-</p>
-
----
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
