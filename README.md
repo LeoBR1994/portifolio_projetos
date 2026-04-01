@@ -29,7 +29,33 @@ Me chamo Leonardo Rosa, tenho 32 anos e sou natural do Rio Grande do Sul. Sou Ba
     </a>
 </p>
 
----### 🤖 Linguagens e Tecnologias:
+---
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="bottom" style="padding-bottom: 10px;">
+        <b style="font-size: 1.1em; color: #a9b1d6;">Estatísticas Gerais</b>
+      </td>
+      <td align="center" valign="bottom" style="padding-bottom: 10px;">
+        <b style="font-size: 1.1em; color: #a9b1d6;">Proeficiência</b>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoBR1994&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" />
+      </td>
+      <td valign="top">
+        <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoBR1994&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤖 Linguagens e Tecnologias:
 
 <div align="center">
 
@@ -42,16 +68,12 @@ Me chamo Leonardo Rosa, tenho 32 anos e sou natural do Rio Grande do Sul. Sou Ba
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-5C2C2C?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <br><br>
-
   <p><b>📊 BI, Analytics & Automação</b></p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linguagem_M-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white"/>
-
-  <br><br>
 
   <p><b>🗄️ Dados, Cloud, ERP & SaaS</b></p>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
