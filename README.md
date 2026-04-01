@@ -5,8 +5,6 @@
 ></div>
 >
 ---
-## 👋🏼 Quem sou eu:
-
 Me chamo Leonardo Rosa, tenho 32 anos e sou natural do Rio Grande do Sul. Sou Bacharel em Ciências Contábeis, especializado em Auditoria , Controladoria e Gestão de Processos, estou cursando Engenharia de Software na UNICESUMAR - PR. Sou apaixonado por tecnologia e estou me preparando para compartilhar meu conhecimento através do meu canal no YouTube "[Zero ao Insight](https://www.youtube.com/@dozer_aoinsight)", onde irei ensinar a criar projetos ciencia de dados e análises contábeis, e também através do Instagram, com o perfil chamado "[Leonardo Rosa](https://www.instagram.com/_instaleonardorosa/)".
 
 ---
